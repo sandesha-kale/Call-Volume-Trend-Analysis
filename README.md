@@ -1,1 +1,11 @@
 # Call-Volume-Trend-Analysis
+The ABC Call Volume Trend Analysis project focuses on analyzing customer experience (CX) data from the inbound call team of ABC Insurance Company. Spanning over a 23-day period, this dataset contains detailed information on calls handled by the CX team, including agent identifiers, queue times (wait time before connecting with an agent), call durations, and call outcomes (answered, abandoned, or transferred). The primary goal is to identify trends and patterns within the data that can help optimize CX operations, reduce call abandonment rates, especially during night hours, and improve the overall customer experience.
+
+The approach for this project involves a comprehensive workflow, from data preparation and analysis to insights generation and visualization. This ensures a systematic exploration of the dataset, leading to actionable insights that can enhance the customer experience (CX) and optimize call center operations.
+
+After analyzing the call volume, agent availability, and required service levels, the project provides the following actionable result:
+•	Night Shift Staffing Requirement: To maintain a 10% or lower call abandonment rate during night hours (9 pm to 9 am), ABC Insurance needs 4-5 agents per night. This coverage is based on an average night call volume of 300 calls, distributed evenly across 12 hourly time buckets.
+•	Hourly Agent Requirement: For each hour of the night shift, 3 agents are necessary to handle approximately 25 calls per hour. This ensures that calls are answered promptly and the abandon rate is minimized.
+•	Improved Customer Experience: With the implementation of this staffing plan, night callers are expected to receive improved support, reducing abandonment and enhancing customer satisfaction.
+•	Operational Efficiency: The plan optimizes agent resources to handle customer demand effectively, ensuring ABC Insurance meets service quality targets without excessive staffing costs.
+This result enables ABC Insurance to offer consistent, 24/7 customer service and reinforces its commitment to a high-quality customer experience. The approach and findings from this project can also guide future adjustments in manpower allocation as call patterns or customer demand change.
